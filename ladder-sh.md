@@ -14,7 +14,7 @@ Ubuntu/Debian：
 ```bash
 apt-get -y install wget
 ```
-#v2ray
+# v2ray
 ```bash
 bash <(curl -sL https://raw.githubusercontent.com/phlinhng/v2ray-tcp-tls-web/master/install.sh) && v2script
 ```
